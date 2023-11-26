@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* Colors */
+  --color-darkturquoise: #00cde1;
+  --color-lightcyan: #d9f7fa;
+}
